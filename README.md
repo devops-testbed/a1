@@ -1,2 +1,2 @@
 # test repo
-bypass enabl
+bypass enable
